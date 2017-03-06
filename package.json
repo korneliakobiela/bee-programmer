@@ -1,0 +1,24 @@
+{
+  "name": "bee-programmer",
+  "version": "0.0.0",
+  "description": "Game with text control",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korneliakobiela/bee-programmer.git"
+  },
+  "keywords": [
+    "bee",
+    "game",
+    "phaser"
+  ],
+  "author": "Kornelia Kobiela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korneliakobiela/bee-programmer/issues"
+  },
+  "homepage": "https://github.com/korneliakobiela/bee-programmer#readme"
+}
